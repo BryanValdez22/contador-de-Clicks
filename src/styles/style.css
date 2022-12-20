@@ -1,0 +1,29 @@
+.card{
+    background: #0291e3;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 3px #969696;
+    padding: 20px;
+}
+.h2{
+    color: #193a4d;
+    font-weight: 800;
+}
+
+h3{
+    font-size: 2em;
+    color: #193a4d;
+}
+
+.btn{
+    border: none;
+    background: #fff;
+    margin: 5px;
+    width: 10em;
+    padding: 10px 0;
+    color: #193a4d;
+    font-size: .8em;
+    cursor: pointer;
+}
+.btn:hover{
+    transform: scale(.9);
+}
